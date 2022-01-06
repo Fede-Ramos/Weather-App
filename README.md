@@ -57,10 +57,6 @@ __Ruta de detalle de ciudad__: debe contener
 - [ ] Longitud
 
 <p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/87664281/148438276-47e14392-0f2a-43da-9e38-4a954c6b0e16.png" />
-</p>
-
-<p align="center">
   <img height="200" src="https://user-images.githubusercontent.com/87664281/148438329-60eb2b3f-ade1-411d-a40a-368203a4bf30.png" />
 </p>
 
